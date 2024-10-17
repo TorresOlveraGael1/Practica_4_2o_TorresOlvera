@@ -143,4 +143,5 @@ if palabras_no_encontradas:
     print("Palabras no encontradas en el diccionario:", ', '.join(palabras_no_encontradas))
 
 ![image](https://github.com/user-attachments/assets/07c5a475-976d-43bc-8234-0e9d1c5526df)
-![image](https://github.com/user-attachments/assets/fdcdb833-e3eb-469b-98fd-3032d025f937)
+![image](https://github.com/user-attachments/assets/916c4da2-7203-476d-a775-321ecf70f316)
+
